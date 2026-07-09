@@ -27,10 +27,9 @@ Puedes abrir o cerrar la interfaz del diario en cualquier momento usando los sig
 ## 📥 Instalación
 
 1. Ve a la sección de **Releases** en este repositorio de GitHub.
-2. Descarga el archivo comprimido **`AZP_WrathJournal.zip`**.
-3. Extrae la carpeta contenida dentro de la ruta de tu cliente de WoW:
+2. Descarga el archivo comprimido **`AZP_WrathJournal.zip`**. 
+3. Asegúrate de que la carpeta mantenga el nombre exacto: **`AZP_WrathJournal`**. y sus demas archivos como texture, AZP_WrathJournal etc, copia la carpeta "AZP_WrathJournal" antes de esos archivos mencionados  y lo pegas a 
    `World of Warcraft/Interface/AddOns/`
-4. Asegúrate de que la carpeta mantenga el nombre exacto: **`AZP_WrathJournal`**.
 5. Entra al juego y verifica que el addon esté activo en la pantalla de selección de personaje.
 
 ---
