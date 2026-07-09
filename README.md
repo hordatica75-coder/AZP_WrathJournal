@@ -13,7 +13,8 @@ Este addon tiene como fin ayudar a los jugadores a entender las mecanicas de ciu
 
 ## 📸 Vista Previa de la Interfaz
 
-<img width="1360" height="768" alt="WoWScrnShot_070926_012449" src="https://github.com/user-attachments/assets/00ef7504-634a-484a-b853-30826627cb43" />
+<img width="1360" height="768" alt="WoWScrnShot_070926_012449" src="https://github.com/user-attachments/assets/1a569b94-17ea-44ba-bd93-2fc4bec7832c" />
+
 
 
 </div>
