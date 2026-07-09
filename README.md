@@ -4,7 +4,7 @@
 
 **El complemento visual definitivo para la banda Ciudadela de la Corona de Hielo en World of Warcraft.**
 
-<img width="1360" height="768" alt="preview" src="https://github.com/user-attachments/assets/04ab1231-2399-4802-b4a7-2d7e3bfcf0e9" />
+Este addon tiene como fin ayudar a los jugadores a entender las mecanicas de ciudadela de corona de hielo tanto en su version normal como heroica, cabe aclarar que los modos de 25 siempre tendran mas vida y adds los jefe que los modo de 10
 
 
 </div>
@@ -13,9 +13,7 @@
 
 ## 📸 Vista Previa de la Interfaz
 
-<div align="center">
-
-<img src="preview.png" alt="Vista previa de AZP WrathJournal" width="850">
+<img width="1360" height="768" alt="preview" src="https://github.com/user-attachments/assets/04ab1231-2399-4802-b4a7-2d7e3bfcf0e9" />
 
 </div>
 
