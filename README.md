@@ -1,40 +1,45 @@
-# AZP WrathJournal - Diario de ICC (3.3.5a)
+<div align="center">
 
-**AZP WrathJournal** es un addon liviano para *World of Warcraft: Wrath of the Lich King (3.3.5a)* diseñado para servir como un diario de consulta rápida para la banda **Ciudadela de la Corona de Hielo (ICC)**. 
+# ❄️ AZP WrathJournal - Diario de ICC (3.3.5a)
 
-Incluye estrategias detalladas, mecánicas tanto en normal como heroicas, visores de modelos 3D de los jefes y una interfaz con estilo azul hielo integrada con la estética del juego.
+**El complemento visual definitivo para la banda Ciudadela de la Corona de Hielo en World of Warcraft.**
+
+![WoW Version](https://img.shields.io/badge/WoW-3.3.5a-blue?style=for-the-badge&logo=worldofwarcraft)
+![License](https://img.shields.io/badge/License-GPLv3-green?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🌟 Características Principales
+## 📸 Vista Previa de la Interfaz
 
-* **Información Completa de Jefes:** Guía de habilidades, fases, mecánicas en modo Heroico y estrategias para cada encuentro de ICC.
-* **Visor 3D y Gráficos:** Muestra el modelo 3D dinámico o la imagen correspondiente de cada jefe.
-* **Interfaz Personalizada:** Diseño en tono negro mate y azul celeste ICC, con barra de desplazamiento suave y navegación rápida.
-* **Acceso Directo:** Incluye un botón interactivo en el minimapa y en la barra de micro-menú principal del juego.
+<div align="center">
+
+<img src="preview.png" alt="Vista previa de AZP WrathJournal" width="850">
+
+</div>
+
+---
+
+## ✨ Características Principales
+
+* 🧊 **Estética Azul Hielo / ICC:** Interfaz con temática custom de la Ciudadela en tono negro mate y celeste.
+* 💀 **Visor de Jefes:** Modelos 3D e ilustraciones integradas para cada encuentro de la banda.
+* 📜 **Guías y Mecánicas:** Habilidades, fases y mecánicas exclusivas en modo Heroico al alcance de un clic.
+* ⚡ **Ultra Liviano:** Diseñado sin consumo innecesario de recursos para no afectar tus FPS en raid.
+* 📍 **Integración:** Botón personalizado en el minimapa y acceso rápido en la barra principal.
 
 ---
 
 ## 🛠️ Comandos de Chat
 
-Puedes abrir o cerrar la interfaz del diario en cualquier momento usando los siguientes comandos en el chat:
-
-* `/icc`
-* `/wrathjournal`
+* `/icc` — Abre / Cierra la ventana del diario.
+* `/wrathjournal` — Comando alternativo.
 
 ---
 
-## 📥 Instalación
+<div align="center">
 
-1. Ve a la sección de **Releases** en este repositorio de GitHub.
-2. Descarga el archivo comprimido **`AZP_WrathJournal.zip`**. 
-3. Asegúrate de que la carpeta mantenga el nombre exacto: **`AZP_WrathJournal`**. y sus demas archivos como texture, AZP_WrathJournal etc, copia la carpeta "AZP_WrathJournal" antes de esos archivos mencionados  y lo pegas a 
-   `World of Warcraft/Interface/AddOns/`
-5. Entra al juego y verifica que el addon esté activo en la pantalla de selección de personaje.
+**Desarrollado para la comunidad de 3.3.5a por Eficaxx**
 
----
-
-## 📜 Licencia y Créditos
-
-* **Desarrollador / Créditos:** Eficaxx
-* **Licencia:** Distribuido bajo la licencia **GNU General Public License v3 (GPLv3)**. Siéntete libre de colaborar, modificar o reportar errores.
+</div>
