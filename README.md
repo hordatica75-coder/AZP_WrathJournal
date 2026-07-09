@@ -4,8 +4,8 @@
 
 **El complemento visual definitivo para la banda Ciudadela de la Corona de Hielo en World of Warcraft.**
 
-![WoW Version](https://img.shields.io/badge/WoW-3.3.5a-blue?style=for-the-badge&logo=worldofwarcraft)
-![License](https://img.shields.io/badge/License-GPLv3-green?style=for-the-badge)
+<img width="1360" height="768" alt="preview" src="https://github.com/user-attachments/assets/04ab1231-2399-4802-b4a7-2d7e3bfcf0e9" />
+
 
 </div>
 
