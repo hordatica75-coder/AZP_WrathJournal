@@ -4,7 +4,7 @@
 
 **El complemento visual definitivo para la banda Ciudadela de la Corona de Hielo en World of Warcraft.**
 
-Este addon tiene como fin ayudar a los jugadores a entender las mecanicas de ciudadela de corona de hielo tanto en su version normal como heroica, cabe aclarar que los modos de 25 siempre tendran mas vida y adds los jefe que los modo de 10
+Este addon tiene como fin ayudar a los jugadores a entender las mecanicas de ciudadela de corona de hielo tanto en su version normal como heroica, cabe aclarar que los modos de 25 jugadores siempre tendran mas vida y adds los jefe que los modo de 10 jugadores
 
 
 </div>
