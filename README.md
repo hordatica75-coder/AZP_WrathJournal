@@ -2,7 +2,7 @@
 
 **AZP WrathJournal** es un addon liviano para *World of Warcraft: Wrath of the Lich King (3.3.5a)* diseñado para servir como un diario de consulta rápida para la banda **Ciudadela de la Corona de Hielo (ICC)**. 
 
-Incluye estrategias detalladas, mecánicas heroicas, visores de modelos 3D de los jefes y una interfaz con estilo azul hielo integrada con la estética del juego.
+Incluye estrategias detalladas, mecánicas tanto en normal como heroicas, visores de modelos 3D de los jefes y una interfaz con estilo azul hielo integrada con la estética del juego.
 
 ---
 
