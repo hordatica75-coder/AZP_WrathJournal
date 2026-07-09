@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: AZP Wrath Journal (3.3.5a)
+## Notes: Diario de Mazmorras adaptado para 3.3.5a (AzerothCore/TrinityCore).
+## Author: Adaptación
+## Version: 1.0.0
+## SavedVariables: AZP_WrathJournalDB
+
+SavedData.lua
+EJFunctions.lua
+DungeonJournal.lua
+gui.lua
